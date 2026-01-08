@@ -1,0 +1,5 @@
+{
+  "name": "Cloudflare Candidate Dashboard",
+  "description": "A Cloudflare-themed analytics dashboard visualizing the candidate's gratitude and interview performance metrics.",
+  "requestFramePermissions": []
+}
